@@ -2,7 +2,7 @@
 
 # Variables
 
-## Names
+## Name
 user=$(whoami)
 hostname=$(hostname | sed 's/.local//g')
 

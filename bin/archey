@@ -44,7 +44,7 @@ case $versionShort in
         ;;
 esac
 
-## Kernal
+## Kernel
 kernel=$(uname -sr)
 
 ## Uptime
